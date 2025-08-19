@@ -77,14 +77,6 @@ Este proyecto fue una instancia de **autodesafío y aprendizaje**, donde prioric
 4. Ejecuta la clase `Principal` desde consola.
 5. Sigue las instrucciones del menú interactivo.
 
----
-
-## 🎥 Demostración
-
-[🎬 https://www.linkedin.com/feed/update/urn:li:ugcPost:7328145163199934464/]
-
----
-
 ## 📌 Sobre mí
 
 Estudiante de Backend Java con Oracle - Alura Latam.  
@@ -93,8 +85,8 @@ Cada línea de código es parte de una construcción real y comprometida con mi 
 
 ## 📬 Contacto:
 
-📧 nattypavez@gmail.com   
-💼 https://www.linkedin.com/in/natalia-pavez-programacion/  
-🐙 https://github.com/NattyPavez
+📧 tomas.islas8@hotmail.com   
+💼 https://www.linkedin.com/in/saul-tomas-martinez-islas-10538a353/  
+🐙 https://github.com/Tomasislas
 
 ---
